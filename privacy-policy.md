@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**ShiftSaver** ("we", "our", or "us") is operated by Ongoing Care ABN [YOUR ABN].
+**ShiftSaver** is developed and operated by **Berke Yas** (ABN: 39 221 377 601).
 
 Last updated: April 2026
 
@@ -29,7 +29,7 @@ All data is stored securely using Supabase, hosted on AWS infrastructure in Sing
 ## Data Sharing
 
 We do not sell your personal information. Data is only shared with:
-- Your employer (NDIS provider organisation)
+- Your employer (NDIS provider organisation using ShiftSaver)
 - Supabase (our database provider)
 
 ## NDIS Compliance
@@ -54,7 +54,7 @@ You have the right to:
 
 ## Contact Us
 
-For privacy concerns, contact us at: privacy@ongoingcare.com.au
+For privacy concerns, contact us at: berke@ankadev.com.au
 
 ## Changes to This Policy
 
